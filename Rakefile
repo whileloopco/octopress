@@ -6,7 +6,7 @@ require "stringex"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "user@domain.com"
 ssh_port       = "22"
-document_root  = "~/website.com/"
+document_root  = "~/whileloop.co/"
 rsync_delete   = true
 deploy_default = "s3"
 s3_bucket = "whileloop.co"
